@@ -1,0 +1,11 @@
+{
+  "name": "twitterbottutorial",
+  "version": "1.0.0",
+  "description": "best bot ever",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Thebe <me@adityathebe.com> (http://adityathebe.com)",
+  "license": "MIT"
+}
